@@ -1,0 +1,2 @@
+- hacer un boton que se dezlice cuando scroleas asi siempre podes volver hacia arriba
+- PARA SUBIR AL SERVIDOR:  scp -r . belen@192.168.0.200:/var/www/root/yazkia/
